@@ -7,7 +7,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var valleyRouter = require('./routes/valley');
-var addmodsRouter = require('./addmods/valley');
+var addmodsRouter = require('./routes/addmods');
 
 
 
